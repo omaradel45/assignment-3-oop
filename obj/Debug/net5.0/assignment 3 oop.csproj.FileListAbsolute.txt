@@ -1,0 +1,4 @@
+C:\Users\misho\source\repos\assignment 3 oop\assignment 3 oop\obj\Debug\net5.0\assignment 3 oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\assignment 3 oop\assignment 3 oop\obj\Debug\net5.0\assignment 3 oop.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\assignment 3 oop\assignment 3 oop\obj\Debug\net5.0\assignment 3 oop.AssemblyInfo.cs
+C:\Users\misho\source\repos\assignment 3 oop\assignment 3 oop\obj\Debug\net5.0\assignment 3 oop.csproj.CoreCompileInputs.cache
